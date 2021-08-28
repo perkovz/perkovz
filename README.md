@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Welcome to my page!
+I'm Zvonimir, Front-end developer from <img height="20" src="https://img.icons8.com/color/48/000000/croatia.png" alt="Croatian flag" /> Osijek, Croatia, living and workig in <img height="20" src="https://img.icons8.com/color/48/000000/ohio-flag.png" alt="Ohio flag" /> Cleveland, Ohio. 
+
 **languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+Javascript, jQuery, HTML, SCSS, Git
