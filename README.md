@@ -24,7 +24,7 @@ I'm Zvonimir, Front-end developer from Osijek, Croatia living and workig in Clev
 &nbsp;&nbsp; 💬 Ask me about Design systems, Front-end architecture, Cooking, Working out and Yoga <br />
 &nbsp;&nbsp; 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/zvonimirperkovic/) <br />
 
-
+<br />
 ## My tech stack: 
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
 <img align="left" alt="Javascript" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
@@ -37,7 +37,7 @@ I'm Zvonimir, Front-end developer from Osijek, Croatia living and workig in Clev
 <br />
 <!-- https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b -->
 
-
+<br />
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
