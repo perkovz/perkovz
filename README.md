@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ## Welcome to my page!
 I'm Zvonimir, Front-end developer from <img height="16" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/hr.svg" alt="Croatian flag" /> Osijek, Croatia living and workig in <img height="16" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/us.svg" /> Cleveland, Ohio. 
 
-🔭 I’m currently working on my.clevelandclinic.org/
-🌱 I’m currently learning React and Next.js
-👯 I’m looking to collaborate on Design systems
-💬 Ask me about Design systems, Front-end architecture, Cooking, Working out and Yoga
-📫 How to reach me: 
+🔭 I’m currently working on [https://my.clevelandclinic.org/](my.clevelandclinic.org/) <br />
+🌱 I’m currently learning React and Next.js <br />
+👯 I’m looking to collaborate on Design systems <br />
+💬 Ask me about Design systems, Front-end architecture, Cooking, Working out and Yoga <br />
+📫 How to reach me: https://my.clevelandclinic.org/](my.clevelandclinic.org/)
 
 
 ## Tech stack: 
