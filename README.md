@@ -40,4 +40,8 @@ I'm Zvonimir, Front-end developer from Osijek, Croatia living and workig in Clev
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Promoting teamwork while improving production process in 5 easy steps](https://dev.to/zperkovic/promoting-teamwork-while-improving-the-production-process-in-5-easy-steps-2k5k)
+- [5 ways to do a code review](https://dev.to/zperkovic/5-ways-to-do-a-code-review-1nfd)
+- [Bridging the gap between design and development. ⚔️  How to use Figma's projects as process sections. 🥁](https://dev.to/zperkovic/bridging-the-gap-between-design-and-development-how-to-use-figma-s-projects-as-process-sections-4ccg)
+- [Component driven design in 5 steps 🚀](https://dev.to/zperkovic/great-front-end-development-starts-with-great-design-2g4p)
 <!-- BLOG-POST-LIST:END -->
