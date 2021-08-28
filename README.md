@@ -36,3 +36,7 @@ I'm Zvonimir, Front-end developer from Osijek, Croatia living and workig in Clev
 <img align="left" alt="Figma" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 
 <!-- https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b -->
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
