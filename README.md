@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ## Welcome to my page!
-I'm Zvonimir, Front-end developer from <img height="16" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/hr.svg" alt="Croatian flag" /> Osijek, Croatia living and workig in <img height="16" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/us.svg" /> Cleveland, Ohio. 
+I'm Zvonimir, Front-end developer from Osijek, Croatia living and workig in Cleveland, Ohio. 
 
-🔭 I’m currently working on [my.clevelandclinic.org/](https://my.clevelandclinic.org/) <br />
-🌱 I’m currently learning React and Next.js <br />
-👯 I’m looking to collaborate on Design systems <br />
-💬 Ask me about Design systems, Front-end architecture, Cooking, Working out and Yoga <br />
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/zvonimirperkovic/)
+&nbsp;&nbsp; 🔭 I’m currently working on [my.clevelandclinic.org/](https://my.clevelandclinic.org/) <br />
+&nbsp;&nbsp; 🌱 I’m currently learning React and Next.js <br />
+&nbsp;&nbsp; 👯 I’m looking to collaborate on Design systems <br />
+&nbsp;&nbsp; 💬 Ask me about Design systems, Front-end architecture, Cooking, Working out and Yoga <br />
+&nbsp;&nbsp; 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/zvonimirperkovic/)
 
 
 ## My tech stack: 
