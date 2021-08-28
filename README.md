@@ -22,7 +22,7 @@ I'm Zvonimir, Front-end developer from Osijek, Croatia living and workig in Clev
 &nbsp;&nbsp; 🌱 I’m currently learning React and Next.js <br />
 &nbsp;&nbsp; 👯 I’m looking to collaborate on Design systems <br />
 &nbsp;&nbsp; 💬 Ask me about Design systems, Front-end architecture, Cooking, Working out and Yoga <br />
-&nbsp;&nbsp; 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/zvonimirperkovic/)
+&nbsp;&nbsp; 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/zvonimirperkovic/) <br />
 
 
 ## My tech stack: 
@@ -36,6 +36,7 @@ I'm Zvonimir, Front-end developer from Osijek, Croatia living and workig in Clev
 <img align="left" alt="Figma" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 <br />
 <!-- https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b -->
+
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
