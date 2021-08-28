@@ -34,7 +34,7 @@ I'm Zvonimir, Front-end developer from Osijek, Croatia living and workig in Clev
 <img align="left" alt="Github" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 <img align="left" alt="XD" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" />
 <img align="left" alt="Figma" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
-
+<br />
 <!-- https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b -->
 
 ## Blog posts
