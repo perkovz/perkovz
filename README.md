@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my page!
-I'm Zvonimir, Front-end developer from <img height="24" src="https://img.icons8.com/color/48/000000/croatia.png" alt="Croatian flag" /> Osijek, Croatia, living and workig in <img height="24" src="https://img.icons8.com/color/48/000000/ohio-flag.png" alt="Ohio flag" /> Cleveland, Ohio. 
+I'm Zvonimir, Front-end developer from <img height="24" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/hr.svg" alt="Croatian flag" /> Osijek, Croatia, living and workig in <img height="24" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/us.svg" /> Cleveland, Ohio. 
 
 **Languages and tools:**  
 
