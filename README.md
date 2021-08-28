@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **perkovz/perkovz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my page!
+## Welcome to my page!
 I'm Zvonimir, Front-end developer from <img height="16" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/hr.svg" alt="Croatian flag" /> Osijek, Croatia living and workig in <img height="16" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/us.svg" /> Cleveland, Ohio. 
 
-Languages and tools: 
+🔭 I’m currently working on my.clevelandclinic.org/
+🌱 I’m currently learning React and Next.js
+👯 I’m looking to collaborate on Design systems
+💬 Ask me about Design systems, Front-end architecture, Cooking, Working out and Yoga
+📫 How to reach me: 
+
+
+## Tech stack: 
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
 <img align="left" alt="Javascript" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="jQuery" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
@@ -28,5 +35,4 @@ Languages and tools:
 <img align="left" alt="XD" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" />
 <img align="left" alt="Figma" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 
-
-Javascript, jQuery, Nextjs, HTML, SCSS, Git
+<!-- https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b -->
