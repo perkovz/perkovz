@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Welcome to my page!
 I'm Zvonimir, Front-end developer from <img height="16" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/hr.svg" alt="Croatian flag" /> Osijek, Croatia living and workig in <img height="16" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/us.svg" /> Cleveland, Ohio. 
 
-**Languages and tools:**  
+Languages and tools: 
 
-Javascript, jQuery, HTML, SCSS, Git
+[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />][blog]
+Javascript, jQuery, Nextjs, HTML, SCSS, Git
