@@ -19,6 +19,14 @@ Welcome to my page!
 I'm Zvonimir, Front-end developer from <img height="16" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/hr.svg" alt="Croatian flag" /> Osijek, Croatia living and workig in <img height="16" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/us.svg" /> Cleveland, Ohio. 
 
 Languages and tools: 
+<!-- https://github.com/devicons/devicon/tree/master/icons -->
+<img align="left" alt="Javascript" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="jQuery" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
+<img align="left" alt="NextJS" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Sass" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+<img align="left" alt="Github" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+<img align="left" alt="XD" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" />
+<img align="left" alt="Figma" height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />][blog]
+
 Javascript, jQuery, Nextjs, HTML, SCSS, Git
