@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## Welcome to my page!
 I'm Zvonimir, Front-end developer from Osijek, Croatia living and workig in Cleveland, Ohio. 
 
-&nbsp;&nbsp; 🔭 I’m currently working on [my.clevelandclinic.org/](https://my.clevelandclinic.org/) <br />
-&nbsp;&nbsp; 🌱 I’m currently learning React and Next.js <br />
+&nbsp;&nbsp; 🔭 I’m working on [my.clevelandclinic.org/](https://my.clevelandclinic.org/) <br />
+&nbsp;&nbsp; 🌱 I’m learning React and Next.js <br />
 &nbsp;&nbsp; 👯 I’m looking to collaborate on Design systems <br />
 &nbsp;&nbsp; 💬 Ask me about Design systems, Front-end architecture, Cooking, Working out and Yoga <br />
 &nbsp;&nbsp; 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/zvonimirperkovic/) <br />
