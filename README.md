@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Welcome to my page!
-I'm Zvonimir, Front-end developer from Osijek, Croatia living and workig in Cleveland, Ohio. 
+I'm Zvonimir, Front-end developer from Osijek, Croatia living and working in Cleveland, Ohio. 
 
 &nbsp;&nbsp; 🔭 I’m working on [my.clevelandclinic.org/](https://my.clevelandclinic.org/) <br />
 &nbsp;&nbsp; 🌱 I’m learning React and Next.js <br />
