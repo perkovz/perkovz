@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ## Welcome to my page!
-I'm Zvonimir, Front-end developer from Osijek, Croatia living and working in Cleveland, Ohio. 
+I'm Zvonimir, Full-stack Product Designer from Cleveland, Ohio. 
 
-&nbsp;&nbsp; 🔭 I’m working on [my.clevelandclinic.org/](https://my.clevelandclinic.org/) <br />
+&nbsp;&nbsp; 🔭 I’m working on [Connected Products/](https://www.fbin.com/our-story/connected-products/) <br />
 &nbsp;&nbsp; 🌱 I’m learning React and Next.js <br />
-&nbsp;&nbsp; 👯 I’m looking to collaborate on Design systems <br />
-&nbsp;&nbsp; 💬 Ask me about Design systems, Front-end architecture and Web performance <br />
+&nbsp;&nbsp; 👯 I’m looking to collaborate on Design systems and IoT solutions <br />
+&nbsp;&nbsp; 💬 Ask me about Product design, Design systems, and Connected products <br />
 &nbsp;&nbsp; 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/zvonimirperkovic/) <br />
 
 
