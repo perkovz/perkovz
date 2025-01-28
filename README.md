@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Welcome to my page!
 I'm Zvonimir, Full-stack Product Designer from Cleveland, Ohio. 
 
-&nbsp;&nbsp; 🔭 I’m working on [Connected Products/](https://www.fbin.com/our-story/connected-products/) <br />
+&nbsp;&nbsp; 🔭 I’m working on [Connected Products](https://www.fbin.com/our-story/connected-products/) <br />
 &nbsp;&nbsp; 🌱 I’m learning React and Next.js <br />
 &nbsp;&nbsp; 👯 I’m looking to collaborate on Design systems and IoT solutions <br />
 &nbsp;&nbsp; 💬 Ask me about Product design, Design systems, and Connected products <br />
